@@ -45,7 +45,7 @@ import mapboxgl from "mapbox-gl";
 // import { useHistory } from "react-router";
 import "./group.css";
 import "./card_admin.css"
-import geoJson from "./chicago-parks.json";
+import geoJson from "./chicago-parks.json"
 // import { saveAs } from "file-saver";
 import editjson from "./chicago-parks.json";
 import "./qradmin.css"
