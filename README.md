@@ -1,5 +1,5 @@
 # i-Clean
-##FinalDetect
+## FinalDetect
 ML Based Trained Model to Detect and Classify waste materials as-
 This is divided in 6 classes - 
 1. Plastic
@@ -9,11 +9,11 @@ This is divided in 6 classes -
 5. Metal
 6. Biodegradable
 
-##FrontendBackend
+## FrontendBackend
 Our Web app i clean which contains all the source codes of frontend as well as backend
 We need to start the server first to get redirected from landing page.
 
-##Landing
+## Landing
 The Landing Web Page out website.
 
 Guide to start server - 
