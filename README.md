@@ -19,4 +19,5 @@ The Landing Web Page out website.
 Guide to start server - 
 1. Open Codespace
 2. Run cd FrontendBackend/admin
-3. npm start
+3. run -> npm install --legacy-peer-deps
+4. npm start
